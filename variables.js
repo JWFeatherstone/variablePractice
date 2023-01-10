@@ -4,3 +4,6 @@ var status = "Tab overload"
 var age = 29
 var session = 2
 var smallGroup = 11
+var terminalFinished = true
+var pairingFinished = false
+var loomAnxiety = true
